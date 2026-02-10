@@ -1,2 +1,2 @@
 # Introducing-GitHub
-its just and example of how to use GitHub and create a new repository
+I am editing the README file. Adding some more details about the project description.
